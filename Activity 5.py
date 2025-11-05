@@ -14,8 +14,8 @@ for i in range(15):
     words.append(words_file.readline().strip())
 print(words)
 
-       # Words_file = open ('crosswrd txt,'r)
-       # for i in words_File
+        Words_file = open ('crosswrd txt,'r)
+        for i in words_File
 
 def more_than_20(file):
     if len (x) > 20
@@ -33,9 +33,9 @@ def has_no_e(word):
       
 
 
-      uses_only ('alex Alexis') #
+      uses_only ('alex Alexis') 
         Should return true
-       uses_only ('alex Alexas') #
+       uses_only ('alex Alexas') 
         Should return false
 
         If word == alex
@@ -44,7 +44,14 @@ def has_no_e(word):
          Def uses_only()
          uses_only('Alex' , 'alexis')
          #should only return true 
-         def uses_only (word,letters)
+       if  uses_only (word,letters)
+
+
+  for method in dir(message): 
+if '__' not in method: 
+    elif print(method) 
+      
+
             for letter in word
             if letter not in word 
             retern false 
