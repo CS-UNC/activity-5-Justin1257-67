@@ -56,5 +56,3 @@ if '__' not in method:
             if letter not in word 
             retern false 
   return true 
-
-
