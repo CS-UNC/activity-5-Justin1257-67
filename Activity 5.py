@@ -1,5 +1,5 @@
 words_File = open('CROSSWD.txt , r')
-Print(words_file)
+Print (words_file)
 print(type(words_file.readline))
 for l in dir()(words_file.)):
     #if k'__' not in k 
@@ -14,7 +14,7 @@ for i in range(15):
     words.append(words_file.readline().strip())
 print(words)
 
-        Words_file = open ('crosswrd txt,'r)
+      Words_file = open ('crosswrd txt,'r)
         for i in words_File
 
 def more_than_20(file):
@@ -34,12 +34,12 @@ def has_no_e(word):
 
 
       uses_only ('alex Alexis') 
-        Should return true
+     Should return true
        uses_only ('alex Alexas') 
-        Should return false
+    Should return false
 
         If word == alex
-         than if word contains A,L,E,X print true 
+        than if word contains A,L,E,X print true 
 
          Def uses_only()
          uses_only('Alex' , 'alexis')
